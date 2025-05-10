@@ -1,0 +1,10 @@
+# Node (React)
+node_modules/
+build/
+.env
+
+# Go
+*.exe
+*.out
+*.test
+vendor/
